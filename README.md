@@ -3,7 +3,7 @@
 
 - pkg update
 - pkg upgrade
-- pkg install python2
+
 - pkg install curl
 - cd Reverse-Ip
-- python2 reverse.py
+- python3 reverse.py
